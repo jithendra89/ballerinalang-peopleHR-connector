@@ -9,6 +9,7 @@ Prerequisites
 1. Obtain the following parameters
     * Api Key
     * Query Name ( Query Name defined in PeopleHR )
+2. Tested only with Ballerina v0.89.
 
 How to run this sample
 ======================
